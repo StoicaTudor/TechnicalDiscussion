@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="AutoMapper" Version="11.0.1" />
+        <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+        <PackageReference Include="Unity.Container" Version="5.11.11" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="TechnicalTest.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\TechnicalTest.Core\obj\Debug\net5.0\TechnicalTest.Core.dll</HintPath>
+      </Reference>
+      <Reference Include="TechnicalTest.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\TechnicalTest.Infrastructure\TechnicalTest.Infrastructure\obj\Debug\net5.0\TechnicalTest.Infrastructure.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>
