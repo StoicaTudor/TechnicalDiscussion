@@ -1,0 +1,28 @@
+{
+   "Offers":[
+      {
+         "Id":1,
+         "CheckInDate":"07/15/2022",
+         "StayDurationNights":3,
+         "NumberPersons":10
+      },
+      {
+         "Id":2,
+         "CheckInDate":"07/15/2022",
+         "StayDurationNights":10,
+         "NumberPersons":2
+      },
+      {
+         "Id":3,
+         "CheckInDate":"07/15/2022",
+         "StayDurationNights":3,
+         "NumberPersons":10
+      },
+      {
+         "Id":4,
+         "CheckInDate":"07/15/2022",
+         "StayDurationNights":3,
+         "NumberPersons":10
+      },
+   ]
+}
