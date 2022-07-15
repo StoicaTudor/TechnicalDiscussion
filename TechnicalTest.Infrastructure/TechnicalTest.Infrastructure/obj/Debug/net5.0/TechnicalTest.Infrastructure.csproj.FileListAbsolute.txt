@@ -1,0 +1,15 @@
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/bin/Debug/net5.0/TechnicalTest.Infrastructure.deps.json
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/bin/Debug/net5.0/TechnicalTest.Infrastructure.dll
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/bin/Debug/net5.0/ref/TechnicalTest.Infrastructure.dll
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/bin/Debug/net5.0/TechnicalTest.Infrastructure.pdb
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/bin/Debug/net5.0/TechnicalTest.Core.dll
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/bin/Debug/net5.0/TechnicalTest.Core.pdb
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/obj/Debug/net5.0/TechnicalTest.Infrastructure.csproj.AssemblyReference.cache
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/obj/Debug/net5.0/TechnicalTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/obj/Debug/net5.0/TechnicalTest.Infrastructure.AssemblyInfoInputs.cache
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/obj/Debug/net5.0/TechnicalTest.Infrastructure.AssemblyInfo.cs
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/obj/Debug/net5.0/TechnicalTest.Infrastructure.csproj.CoreCompileInputs.cache
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/obj/Debug/net5.0/TechnicalTest.Infrastructure.csproj.CopyComplete
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/obj/Debug/net5.0/TechnicalTest.Infrastructure.dll
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/obj/Debug/net5.0/ref/TechnicalTest.Infrastructure.dll
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/obj/Debug/net5.0/TechnicalTest.Infrastructure.pdb

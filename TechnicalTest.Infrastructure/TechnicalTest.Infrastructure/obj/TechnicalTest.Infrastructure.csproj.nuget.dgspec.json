@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure.csproj",
+        "projectName": "TechnicalTest.Infrastructure",
+        "projectPath": "/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure.csproj",
+        "packagesPath": "/home/citadin/.nuget/packages/",
+        "outputPath": "/home/citadin/Documents/Facultate/Projects/TechnicalTest.Infrastructure/TechnicalTest.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/citadin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
