@@ -1,0 +1,12 @@
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Core/bin/Debug/net5.0/TechnicalTest.Core.deps.json
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Core/bin/Debug/net5.0/TechnicalTest.Core.dll
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Core/bin/Debug/net5.0/ref/TechnicalTest.Core.dll
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Core/bin/Debug/net5.0/TechnicalTest.Core.pdb
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Core/obj/Debug/net5.0/TechnicalTest.Core.csproj.AssemblyReference.cache
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Core/obj/Debug/net5.0/TechnicalTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Core/obj/Debug/net5.0/TechnicalTest.Core.AssemblyInfoInputs.cache
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Core/obj/Debug/net5.0/TechnicalTest.Core.AssemblyInfo.cs
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Core/obj/Debug/net5.0/TechnicalTest.Core.csproj.CoreCompileInputs.cache
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Core/obj/Debug/net5.0/TechnicalTest.Core.dll
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Core/obj/Debug/net5.0/ref/TechnicalTest.Core.dll
+/home/citadin/Documents/Facultate/Projects/TechnicalTest.Core/obj/Debug/net5.0/TechnicalTest.Core.pdb
